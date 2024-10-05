@@ -41,6 +41,12 @@ namespace Versta_test_project.Server
 
             app.MapFallbackToFile("/index.html");
 
+            using (var serviceScope = app.Services.CreateScope())
+            {
+                var db = serviceScope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+                db.Database.Migrate();
+            }
+
             app.Run();
         }
     }

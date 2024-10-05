@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Versta_test_project.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+600cfbcc3a7dbdc33df9f26c537487fa94c7407a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Versta_test_project.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Versta_test_project.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

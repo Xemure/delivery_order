@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pT5eD18ibMiwiLN7yYJl4NRehsm5kSb3kfRM0unjQGs=",
+  "Hash": "H5JXlVCq3D5iy0CXBpkuJ1y9/dSYo01DoL25CoKrspM=",
   "Source": "Versta_test_project.Server",
   "BasePath": "_content/Versta_test_project.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "versta_test_project.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],

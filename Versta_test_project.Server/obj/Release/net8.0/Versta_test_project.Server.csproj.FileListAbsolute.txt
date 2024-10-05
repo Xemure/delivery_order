@@ -140,3 +140,4 @@ C:\Users\hikik\source\repos\Versta_test_project\Versta_test_project.Server\obj\R
 C:\Users\hikik\source\repos\Versta_test_project\Versta_test_project.Server\obj\Release\net8.0\Versta_test_project.Server.pdb
 C:\Users\hikik\source\repos\Versta_test_project\Versta_test_project.Server\obj\Release\net8.0\Versta_test_project.Server.genruntimeconfig.cache
 C:\Users\hikik\source\repos\Versta_test_project\Versta_test_project.Server\obj\Release\net8.0\ref\Versta_test_project.Server.dll
+C:\Users\hikik\source\repos\Versta_test_project\Versta_test_project.Server\obj\Release\net8.0\Versta_test_project.Server.sourcelink.json
