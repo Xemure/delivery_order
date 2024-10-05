@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Versta_test_project.Server.props" />
+</Project>

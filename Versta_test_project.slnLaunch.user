@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "\u041D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0444\u0438\u043B\u044C",
+    "Projects": [
+      {
+        "Name": "Versta_test_project.Server\\Versta_test_project.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Name": "versta_test_project.client\\versta_test_project.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Chrome)"
+      }
+    ]
+  }
+]

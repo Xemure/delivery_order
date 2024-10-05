@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "/A3pLxhRSLbGSasXLAgSY6Cq/MXGzA358+yh4MU3Mss=",
+  "Source": "Versta_test_project.Server",
+  "BasePath": "_content/Versta_test_project.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hikik\\source\\repos\\Versta_test_project\\versta_test_project.client\\versta_test_project.client.esproj",
+      "Version": 2,
+      "Source": "versta_test_project.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

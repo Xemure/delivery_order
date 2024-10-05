@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versta_test_project.Server", "Versta_test_project.Server\Versta_test_project.Server.csproj", "{265116B0-91F6-47D2-8425-987F44847049}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "versta_test_project.client", "versta_test_project.client\versta_test_project.client.esproj", "{BA702F70-B478-48E3-9CE1-A8F46EC51938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265116B0-91F6-47D2-8425-987F44847049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265116B0-91F6-47D2-8425-987F44847049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265116B0-91F6-47D2-8425-987F44847049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265116B0-91F6-47D2-8425-987F44847049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA702F70-B478-48E3-9CE1-A8F46EC51938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA702F70-B478-48E3-9CE1-A8F46EC51938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA702F70-B478-48E3-9CE1-A8F46EC51938}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA702F70-B478-48E3-9CE1-A8F46EC51938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA702F70-B478-48E3-9CE1-A8F46EC51938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA702F70-B478-48E3-9CE1-A8F46EC51938}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E04974-A8F3-4725-8FCF-2A77767AD34F}
+	EndGlobalSection
+EndGlobal
