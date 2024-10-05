@@ -16,4 +16,4 @@
 * Go to the root directory: `cd ../`
 * Navigate to the server: `cd Versta_test_project.Server`
 * Run the project: `dotnet run`
-* Open your web browser and go to [localhost:5000](https://localhost:5173/).
+* Open your web browser and go to [localhost:5173](https://localhost:5173/).
